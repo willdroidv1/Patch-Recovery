@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
     inputs:
       RECOVERY_URL:
-        description: 'RECOVERY URL'
+        description: 'https://download1586.mediafire.com/3i11dxarpofgRbrCaAh04BNL7y7Z9LOWjzFHlXrUGR9m-nqLBAEh1cCcqvBpNsW9cs7d9j-RO1edh9_gkZYaOJ80X_Cm-wrsfPfinh6oiBPsAL4_70K6DziNbTh5i1ClVmAs15ejtVYKX6-ornLVEAizXRvH6r1PHrzgWS2htimNWg/8gzxqifsxrjcf6j/recovery.img'
         required: true
         default: 'https://transfer.sh/(RECOMMENDED)'
 
